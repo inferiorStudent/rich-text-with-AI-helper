@@ -1,2 +1,3 @@
 # rich-text-with-AI-helper
-build by C++ Qt5
+
+coming soon~
