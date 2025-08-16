@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/peiqi.png</file>
+        <file>image/hover/close.svg</file>
+        <file>image/normal/close.svg</file>
+        <file>image/icons/bold.svg</file>
+        <file>image/icons/italic.svg</file>
+        <file>image/icons/paste.svg</file>
+        <file>image/icons/paste_disabled.svg</file>
+        <file>image/icons/underline.svg</file>
+        <file>image/icons/arrow_down.svg</file>
+        <file>image/icons/paragraph/bullet_list.svg</file>
+        <file>image/icons/paragraph/center_align.svg</file>
+        <file>image/icons/paragraph/justify.svg</file>
+        <file>image/icons/paragraph/left_align.svg</file>
+        <file>image/icons/paragraph/number_list.svg</file>
+        <file>image/icons/paragraph/retract.svg</file>
+        <file>image/icons/paragraph/right_align.svg</file>
+        <file>image/icons/paragraph/line_dist.svg</file>
+        <file>translation/editor_translate_zh.qm</file>
+    </qresource>
+</RCC>

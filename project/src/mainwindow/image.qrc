@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/peiqi.png</file>
+        <file>translation/main_translate_zh.qm</file>
+        <file>translation/editor_translate_zh.qm</file>
+    </qresource>
+</RCC>

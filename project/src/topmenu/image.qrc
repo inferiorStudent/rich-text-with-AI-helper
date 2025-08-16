@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/peiqi.png</file>
+        <file>image/hover/close.svg</file>
+        <file>image/normal/close.svg</file>
+        <file>image/icons/bold.svg</file>
+        <file>image/icons/italic.svg</file>
+        <file>image/icons/paste.svg</file>
+        <file>image/icons/paste_disabled.svg</file>
+        <file>image/icons/underline.svg</file>
+        <file>image/icons/arrow_down.svg</file>
+        <file>image/icons/paragraph/bullet_list.svg</file>
+        <file>image/icons/paragraph/center_align.svg</file>
+        <file>image/icons/paragraph/justify.svg</file>
+        <file>image/icons/paragraph/left_align.svg</file>
+        <file>image/icons/paragraph/number_list.svg</file>
+        <file>image/icons/paragraph/retract.svg</file>
+        <file>image/icons/paragraph/right_align.svg</file>
+        <file>image/icons/paragraph/line_dist.svg</file>
+        <file>image/icons/expand-bottom-right.svg</file>
+        <file>image/icons/close.svg</file>
+        <file>image/icons/ai.svg</file>
+        <file>image/icons/picture.svg</file>
+        <file>image/icons/from_device.svg</file>
+        <file>image/icons/omega.svg</file>
+        <file>image/icons/table.svg</file>
+        <file>image/icons/ai-link.svg</file>
+        <file>image/icons/connected.svg</file>
+        <file>image/icons/unconnected.svg</file>
+        <file>image/icons/AI-close.svg</file>
+        <file>image/icons/AI-open.svg</file>
+        <file>image/icons/footer.svg</file>
+        <file>image/icons/header.svg</file>
+        <file>image/icons/insert-page.svg</file>
+        <file>image/icons/margin.svg</file>
+        <file>image/icons/page-direction.svg</file>
+        <file>image/icons/page-number.svg</file>
+        <file>image/icons/page-size.svg</file>
+        <file>image/icons/text-box.svg</file>
+        <file>translation/topmenu_translate_zh.qm</file>
+    </qresource>
+</RCC>
