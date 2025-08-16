@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rich text with AI helper
 
 To obtain a deeper understanding of Qt, I developed this project, a simple rich editor, which requires the ability of building a large C++ project (includes the network programming, internationalization) with cmake and visual studio 2019. And also, I compiled the `topmenu` into a dynamic library and the `editor` into a static library. Here is what the interface looks like.
@@ -34,3 +35,8 @@ Yes, I referred to MS Word to implement it. So it looks like I'm using a real Wo
 ## 4 Conclusion
 
 Within a week, I finished this project with the help of Gemini Pro. The Qt native components are so ugly, so I have to redefine them all to make it look well. Finally, there is no need to refine this text editor for its uselessness. It's just a learning project: how to build a large C++ project (not only Qt).
+=======
+# rich-text-with-AI-helper
+
+coming soon~
+>>>>>>> 76c4ed4e6a5714b5a8b3d6003d4cd86ef4d8ff21
